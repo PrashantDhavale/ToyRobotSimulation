@@ -1,7 +1,7 @@
 ﻿using ToyRobotSimulation.Service;
 using ToyRobotSimulation.Service.Abstractions;
 
-namespace ToyRobotSimulation.Client
+namespace ToyRobotSimulation.Service
 {
     public interface ISimpleCommandProcessorFactory
     {
