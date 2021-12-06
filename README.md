@@ -1,5 +1,5 @@
 # ToyRobotSimulation
-Toy Robot Simulation - Telstra Assignment 
+Toy Robot Simulation - Telstra Purple Assignment 
 
 # Prerequisites on Windows
 - .Net Core 3.1 (Download from https://dotnet.microsoft.com/download/dotnet/3.1)
