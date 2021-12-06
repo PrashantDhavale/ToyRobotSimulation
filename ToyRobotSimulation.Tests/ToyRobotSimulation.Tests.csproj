@@ -14,7 +14,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\ToyRobotSimulation.Service\ToyRobotSimulation.Service.csproj" />
-    <ProjectReference Include="..\ToyRobotSimulation.UI\ToyRobotSimulation.Client.csproj" />
   </ItemGroup>
 
 </Project>
