@@ -4,8 +4,8 @@ Toy Robot Simulation - Telstra Assignment
 # Prerequisites on Windows
 - .Net Core 3.1 (Download from https://dotnet.microsoft.com/download/dotnet/3.1)
 
-# GITHUB
-  Open command prompt and clone this repo at any drive/folder of your choice
+# Source Code 
+  Open command prompt and clone this repo at any drive/folder of your choice using git command cli. (Download git from https://git-scm.com/downloads)
 ```
   git clone https://github.com/PrashantDhavale/ToyRobotSimulation.git
 ```
